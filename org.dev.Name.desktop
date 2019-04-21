@@ -1,11 +1,11 @@
 [Desktop Entry]
-Name=Path of Building
-Comment=pob
+Name=Game Template
+Comment=Game Template
 Exec=start.sh %U
-Icon=org.openarl.PathofBuilding
+Icon=org.dev.Name
 StartupNotify=true
-Terminal=false
+Terminal=true
 Type=Application
 MimeType=application/x-ms-dos-executable;application/x-msi;application/x-ms-shortcut;
 Categories=
-Keywords=Strategy;
+Keywords=
