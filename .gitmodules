@@ -1,0 +1,3 @@
+[submodule "flatpak_wine_infrastructure_script"]
+	path = flatpak_wine_infrastructure_script
+	url = https://github.com/user5145/flatpak_wine_infrastructure_script.git

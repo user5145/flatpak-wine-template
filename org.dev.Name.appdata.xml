@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+    <id>org.dev.Name</id>
+    <metadata_license>BSD2</metadata_license>
+    <project_license>LicenseRef-proprietary</project_license>
+    <name>org.dev.Name</name>
+    <summary>App</summary>
+    <description><p>App</p></description>
+    
+    <project_group>github</project_group>
+    <developer_name>user5145</developer_name>
+
+    <url type="homepage">https://github.com/user5145/flatpak-wine-template</url>
+
+    <categories>
+        <category>Development</category>
+    </categories>
+
+    <recommends>
+        <memory>512</memory>
+    </recommends>
+
+    <releases>
+        <release date="2019-01-01" version="2019-01-01">
+            <description>
+                <ul>
+                    <li>org.dev.Name</li>
+                </ul>
+            </description>
+        </release>
+    </releases>
+</component>
