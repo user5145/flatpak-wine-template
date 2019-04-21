@@ -28,7 +28,7 @@ finish-args:
 - --env=INSTALLATOR_FROM_ZENITY=false
 - --env=ZENITY_SELECET_MESSAGE=Select your installer
 - --env=INSTALLATOR_PATH=/var/data/win32/drive_c/windows/system32/cmd.exe
-- --env=SEARCH_FOR_SUPPORT=sssse2
+- --env=SEARCH_SUPPORT_FOR=sssse2
 - --env=SUPPORT_ERROR=Your cpu lacks support thus wrapper will not work. If you think this is a bug click continue
 
 build-options:
